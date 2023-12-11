@@ -4,8 +4,7 @@
 - 👀 I’m interested in doing Crafts and listening to music
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Deep-06&repo=github-readme-stats)](https://github.com/Deep-06/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Deep-06&repo=github-readme-stats)](https://github.com/Deep-06/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Deep-06)](https://git.io/streak-stats)
 
 ![Deepshikha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deep-06&show_icons=true&theme=radical)
 
