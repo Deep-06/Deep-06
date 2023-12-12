@@ -8,7 +8,7 @@ I am a committed Full Stack Web Developer proficient in MERN stack. Expertise in
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/deep-shikha-338a051a6) 
 
-Portfolio: https://deep-06.github.io/
+Portfolio:<a href="https://deep-06.github.io/">Portfolio</a>
 
 Email: shikhadeep.hzp@gmail.com
 
