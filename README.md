@@ -1,7 +1,7 @@
 # Deepshikha
 
 # 💫 About Me:
-I am a committed Full Stack Web Developer and expertise <br>in React.js, Node.js, and MongoDB, with knowledge of <br>RESTful API design and HTML/CSS. Demonstrated expertise<br> in creating solo and collaborative projects. Strong <br>problem-solving abilities and excellent communication <br>skills to deliver functional web applications.
+I am a committed Full Stack Web Developer and expertise in React.js, Node.js, and MongoDB, with knowledge of >RESTful API design and HTML/CSS. Demonstrated expertise in creating solo and collaborative projects. Strong problem-solving abilities and excellent communication skills to deliver functional web applications.
 
 
 ## 🌐 Socials:
