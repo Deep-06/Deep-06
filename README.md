@@ -11,7 +11,7 @@
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/deep-shikha-338a051a6)(https://www.linkedin.com/in/deep-shikha-338a051a6/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deep-shikha-338a051a6/)
 
 [Portfolio](https://deep-06.github.io/)
 
