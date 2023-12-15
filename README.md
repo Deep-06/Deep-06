@@ -2,11 +2,16 @@
 ### Full Stack Web Developer
 
 # 💫 About Me:
-I am a committed Full Stack Web Developer proficient in MERN stack. Expertise in React.js, Node.js, and MongoDB, with knowledge of RESTful API design and HTML/CSS. Demonstrated expertise in creating solo and collaborative projects. Strong problem-solving abilities and excellent communication skills to deliver functional web applications.
+- I am a committed Full Stack Web Developer proficient in MERN stack.
+- Expertise in React.js, Node.js, and MongoDB, with knowledge of RESTful API design and HTML/CSS.
+- Demonstrated expertise in creating solo and collaborative projects.
+- Strong problem-solving abilities and excellent communication skills to deliver functional web applications.
+- I am from hajipur, Bihar.
+- My love doing Arts and crafts in my free time.
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/deep-shikha-338a051a6) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/deep-shikha-338a051a6)(https://www.linkedin.com/in/deep-shikha-338a051a6/)) 
 
 [Portfolio](https://deep-06.github.io/)
 
