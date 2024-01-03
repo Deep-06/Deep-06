@@ -6,8 +6,7 @@
 - Expertise in React.js, Node.js, and MongoDB, with knowledge of RESTful API design and HTML/CSS.
 - Demonstrated expertise in creating solo and collaborative projects.
 - Strong problem-solving abilities and excellent communication skills to deliver functional web applications.
-- I am from hajipur, Bihar.
-- My love doing Arts and crafts in my free time.
+
 
 
 ## 🌐 Connect with me:
